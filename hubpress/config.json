@@ -2,7 +2,8 @@
   "meta": {
     "username": "dgrizzla",
     "repositoryName": "dgrizzla.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "Dolan Says What.?",
+    "description": "You know how it is.",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "3",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "dylandau5@gmail.com",
+    "github": "dgrizzla",
+    "twitter": "dgrizzla",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
