@@ -29,20 +29,20 @@
     ]
   },
   "site": {
-    "title": "Dolan Says What.?",
+    "title": "Dolan Says What!?",
     "description": "You know how it is.",
     "logo": "",
     "cover": "https://raw.githubusercontent.com/dgrizzla/dgrizzla.github.io/master/images/398971.jpg",
     "delay": "",
     "postsPerPage": "3",
     "blogPath": "",
-    "googleAnalytics": "",
-    "disqus": ""
+    "googleAnalytics": "UA-64783786-1",
+    "disqus": "dgrizzla.disqus.com"
   },
   "socialnetwork": {
     "email": "dylandau5@gmail.com",
     "github": "dgrizzla",
-    "twitter": "dgrizzla",
+    "twitter": "https://twitter.com/dgrizzla",
     "facebook": "",
     "googleplus": "",
     "instagram": "",
